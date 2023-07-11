@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate as Data Analyst.
 - 📫 How to reach me 
 - ----->Linkedin --- "https://www.linkedin.com/in/satyam-tripathi-a926b5254/"
+- ----->Gmail --- satyamtripathi038@gmail.com
