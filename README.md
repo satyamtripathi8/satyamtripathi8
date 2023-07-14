@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate as Data Analyst.
 - 📫 How to reach me 
-  - Gmail-------> satyam.22jdaiml131@jietjodhpur.ac.in
+  - Email-------> satyam.22jdaiml131@jietjodhpur.ac.in
