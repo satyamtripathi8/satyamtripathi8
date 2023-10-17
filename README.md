@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am passionate about Artificial Intelligence and 
 ## 🔍 About Me
 
 - 🎓 Studying at [Jodhpur Institute of Engineering and Technology](https://www.jietjodhpur.ac.in/).
-- 🌱 Currently learning Python and Data Science with Python.
+- 🌱 Currently learning Python, Data Science, Neural Networks and NLP with Python.
 - 💼 Actively seeking opportunities as a **ML Engineer** or **Deep Learning Engineer**.
 - 💞 Interested in collaborating on innovative projects in the realm of AI and ML.
 
