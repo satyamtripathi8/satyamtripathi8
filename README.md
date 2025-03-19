@@ -1,23 +1,32 @@
-# Hi there, I'm Satyam Tripathi! 👋
+# Hi there, I'm Satyam Tripathi! 👋  
 
-Welcome to my GitHub profile! I am passionate about Artificial Intelligence and Machine Learning, and I'm currently on an exciting journey of learning and exploration in these fields. 🚀
+Welcome to my GitHub profile! I am passionate about **Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP)** and always exploring innovative ways to apply these technologies. 🚀  
 
-## 🔍 About Me
+## 🔍 About Me  
 
-- 🎓 Studying at [Jodhpur Institute of Engineering and Technology](https://www.jietjodhpur.ac.in/).
-- 🌱 Currently learning Python, Data Science, Neural Networks and NLP with Python.
-- 💼 Actively seeking opportunities as a **ML Engineer** or **Deep Learning Engineer**.
-- 💞 Interested in collaborating on innovative projects in the realm of AI and ML.
+- 🎓 **Final-year student at [Jodhpur Institute of Engineering and Technology](https://www.jietjodhpur.ac.in/)**  
+- 🌱 **Currently working on:**  
+  - **Retrieval-Augmented Generation (RAG) Agents** (NVIDIA course)  
+  - **GANs for Image Synthesis** (Conditional GAN on CIFAR-10)  
+  - **Speech-to-Text Generator**  
+  - **NLP Projects:** Sentiment Analysis & Chatbot using fine-tuned LLaMA models  
+  - **Gamified Learning Platform:** *Nagrik Mitra* for constitutional literacy  
+- 💼 Seeking opportunities as a **Machine Learning Engineer, NLP Engineer, or AI Researcher**  
+- 💡 Always open to collaborations on **AI, NLP, and Generative AI projects**  
 
-## 🚀 Skills and Tools
+## 🚀 Skills and Tools  
 
-- **Languages:** Python
-- **Technologies:** Artificial Intelligence, Machine Learning, Deep Learning, Data Science
-- **Tools:** TensorFlow, PyTorch, Scikit-Learn, Jupyter Notebooks
-- **Other:** Git, GitHub
+- **Languages:** Python  
+- **Technologies:** AI, ML, Deep Learning, NLP, GANs, RAG  
+- **Frameworks & Tools:** TensorFlow, PyTorch, Hugging Face, OpenAI API, FastAPI, Flask  
+- **NLP Expertise:** Transformer models (LLaMA, T5), Text Generation, Speech-to-Text  
+- **Databases:** PostgreSQL, MongoDB  
+- **Other:** Git, GitHub,   
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me  
 
-Feel free to reach out to me via email: [satyam.22jdaiml131@jietjodhpur.ac.in](mailto:satyam.22jdaiml131@jietjodhpur.ac.in) 📧
+📧 Email: [satyam.22jdaiml131@jietjodhpur.ac.in](mailto:satyam.22jdaiml131@jietjodhpur.ac.in)  
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/satyam-tripathi-a926b5254/)
+🔗 Hugging Face: [My Models & Datasets](https://huggingface.co/satyamtripathii)  
 
-Let's connect and create something amazing together! 😊
+Let’s connect and build something amazing! 😊🚀  
